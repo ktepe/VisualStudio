@@ -1,0 +1,1 @@
+c:\users\kemalt\documents\visual studio 2015\Projects\EnumSample\EnumSample\bin\Debug\EnumSample.exe.config
